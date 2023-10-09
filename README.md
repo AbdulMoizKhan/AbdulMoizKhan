@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgif-animation&psig=AOvVaw1b7aJ-kNfpXpKm0rwA40A-&ust=1696940503007000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKipzJH66IEDFQAAAAAdAAAAABAJ))])
+(img align="right" alt="Coding" width="400" src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgif-animation&psig=AOvVaw1b7aJ-kNfpXpKm0rwA40A-&ust=1696940503007000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKipzJH66IEDFQAAAAAdAAAAABAJ)")
 
 <h1 align="center">Hi 👋, I'm Abdul Moiz Khan</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
