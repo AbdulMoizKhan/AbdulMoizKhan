@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Patient Management System**
 
-- 🌱 I’m currently learning **Vue.js & Next.js**
+- 🌱 I’m currently learning **React.js & Next.js**
 
 - 💬 Ask me about **react**
 
